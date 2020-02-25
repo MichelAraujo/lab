@@ -1,5 +1,5 @@
 const http = require('http');
-const { values } = require('./values.js');
+const { values } = require('./something_external.js');
 
 const hostname = '127.0.0.1';
 const port = 3000;
