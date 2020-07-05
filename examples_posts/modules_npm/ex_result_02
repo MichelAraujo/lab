@@ -1,0 +1,59 @@
+Exports =>  { name: 'João' }
+Require =>  [Function: require] {
+  resolve: [Function: resolve] { paths: [Function: paths] },
+  main: Module {
+    id: '.',
+    path: '/home/michel/Workspace/lab/examples_posts/modules_npm',
+    exports: { name: 'João' },
+    parent: null,
+    filename: '/home/michel/Workspace/lab/examples_posts/modules_npm/myModule.js',
+    loaded: false,
+    children: [],
+    paths: [
+      '/home/michel/Workspace/lab/examples_posts/modules_npm/node_modules',
+      '/home/michel/Workspace/lab/examples_posts/node_modules',
+      '/home/michel/Workspace/lab/node_modules',
+      '/home/michel/Workspace/node_modules',
+      '/home/michel/node_modules',
+      '/home/node_modules',
+      '/node_modules'
+    ]
+  },
+  extensions: [Object: null prototype] {
+    '.js': [Function],
+    '.json': [Function],
+    '.node': [Function]
+  },
+  cache: [Object: null prototype] {
+    '/home/michel/Workspace/lab/examples_posts/modules_npm/myModule.js': Module {
+      id: '.',
+      path: '/home/michel/Workspace/lab/examples_posts/modules_npm',
+      exports: [Object],
+      parent: null,
+      filename: '/home/michel/Workspace/lab/examples_posts/modules_npm/myModule.js',
+      loaded: false,
+      children: [],
+      paths: [Array]
+    }
+  }
+}
+Module =>  Module {
+  id: '.',
+  path: '/home/michel/Workspace/lab/examples_posts/modules_npm',
+  exports: { name: 'João' },
+  parent: null,
+  filename: '/home/michel/Workspace/lab/examples_posts/modules_npm/myModule.js',
+  loaded: false,
+  children: [],
+  paths: [
+    '/home/michel/Workspace/lab/examples_posts/modules_npm/node_modules',
+    '/home/michel/Workspace/lab/examples_posts/node_modules',
+    '/home/michel/Workspace/lab/node_modules',
+    '/home/michel/Workspace/node_modules',
+    '/home/michel/node_modules',
+    '/home/node_modules',
+    '/node_modules'
+  ]
+}
+Filename =>  /home/michel/Workspace/lab/examples_posts/modules_npm/myModule.js
+Dirname =>  /home/michel/Workspace/lab/examples_posts/modules_npm
