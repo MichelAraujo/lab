@@ -1,0 +1,18 @@
+{
+  "name": "modules_npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex_01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start": "echo \"Some install\"",
+    "say_my_name": "echo \"Michel\"",
+    "say_my_name:full": "npm test & npm run say_my_name \"Araujo\"",
+    "list_dir": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

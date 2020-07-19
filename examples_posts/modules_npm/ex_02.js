@@ -1,4 +1,4 @@
-module.exports.name = 'João';
+exports.name = 'João';
 
 console.log('Exports => ', exports);
 console.log('Require => ', require);
